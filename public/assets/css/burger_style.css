@@ -1,0 +1,23 @@
+#newBurger {
+    margin: 10px;
+    border: 1px solid;
+    padding: 5px;
+}
+
+#addBtn {
+    margin: 10px;
+    border: 1px solid;
+    padding: 5px;
+}
+
+#eatenList {
+    margin: 10px;
+    border: 1px solid;
+    padding: 5px;
+}
+
+
+#header {
+    border: 1px bold;
+    padding: 5px;
+}
